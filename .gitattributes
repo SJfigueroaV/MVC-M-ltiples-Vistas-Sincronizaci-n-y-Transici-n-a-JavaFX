@@ -1,0 +1,3 @@
+# Archivos que no deben ir dentro del .zip de entrega (git archive)
+.gitattributes export-ignore
+.gitignore     export-ignore
